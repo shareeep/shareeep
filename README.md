@@ -5,10 +5,7 @@
   I'm enthusiastic about building robust backend systems and architecting scalable solutions.
 </p>
 
-- 🔭 Currently sharpening my **Data Structures & Algorithms (DSA)** and **LeetCode** skills for exciting future opportunities.
-- 🌱 Expanding my backend expertise by learning **Java & Spring Boot**, aiming towards **Solutions Architect** roles.
-- 👯 Keen to collaborate on impactful projects, especially **Hackathons for Social Good** and innovative **AI Projects** leveraging the latest tech.
-- 🤖 I leverage the latest AI tools to assist the software development process. Currently, I am hooked onto **Cline with Gemini 2.5Pro** for AI assisted development in VSCode.
+- 🌱 Expanding my backend expertise by learning **Java & Spring Boot**, aiming towards **Solutions Architect** roles. Check out my projects on my [website!](https://shariffrashid.com)
 - 💬 Feel free to reach out about **Docker, Microservices, AI Automations/Chatbots, Backend Development,** or **System Architecture** – I love discussing these topics!
 - ⚡ **Fun fact:** I was formerly from the advertising industry, where I crafted creative solutions to drive business value. Now, I'm building them hands-on! 🤝
 
